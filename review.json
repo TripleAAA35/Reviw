@@ -1,0 +1,38 @@
+[
+  {
+    userId: 1,
+    id: 1,
+    title: "Katzen",
+    stars: 5
+  },
+  {
+    userId: 1,
+    id: 2,
+    title: "Hunde",
+    stars: 3
+  },
+  {
+    userId: 1,
+    id: 3,
+    title: "Fische",
+    stars: 4
+  },
+  {
+    userId: 1,
+    id: 4,
+    title: "Kotlin",
+    stars: 5
+  },
+  {
+    userId: 1,
+    id: 5,
+    title: "swift",
+    stars: 1
+  },
+  {
+    userId: 1,
+    id: 5,
+    title: "Papierstrohhalme",
+    stars: 1
+  }
+]
